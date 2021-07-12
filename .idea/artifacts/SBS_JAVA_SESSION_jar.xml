@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SBS_JAVA_SESSION:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SBS_JAVA_SESSION_jar</output-path>
+    <root id="archive" name="SBS_JAVA_SESSION.jar">
+      <element id="module-output" name="SBS_JAVA_SESSION" />
+    </root>
+  </artifact>
+</component>
